@@ -201,9 +201,9 @@ void match_field(Parameters& params, string field_name, string value) {
     }
 }
 
-Parameters read_config(string filename, string& status) {
+void read_config(string filename, string& status, Parameters& params) {
     string line;
-    Parameters params;
+    // Parameters params;
     vector<string> lines;
     size_t pos;
     string field_name;
@@ -214,7 +214,7 @@ Parameters read_config(string filename, string& status) {
         cerr << "Could not open the file - '" << filename << "'" << endl;
         cout << "Could not open the file - '" << filename << "'" << endl;
         status="error";
-        return params;
+        // return params;
     }
 
     try{
@@ -228,11 +228,11 @@ Parameters read_config(string filename, string& status) {
     }catch(const exception& exc){
         cout << "Could not open the file - '" << filename << "'" << endl;
         status = "error";
-        return params;
+       // return params;
     }
     cout << "Success ReadFile - '" << filename << "'" <<status << endl;
     status="success";
-    return params;
+    // return params;
 }
 
 void save_config(string filename, Parameters& parameters) {
