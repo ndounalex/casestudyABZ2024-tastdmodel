@@ -7,7 +7,7 @@ Mechanical Lung Ventilator ABZ2024 Case Study
 [![Kubernetes](https://img.shields.io/badge/kubernetes-automated-blue)](https://img.shields.io/badge/kubernetes-automated-blue)
 
 # cASTD and eASTD installation
-The installation procedure for eASTD and cASTD can be found in the [here](https://usherbrooke-my.sharepoint.com/:w:/r/personal/fram1801_usherbrooke_ca/_layouts/15/Doc.aspx?sourcedoc=%7BB3C0F91C-EC24-445B-BA56-39816267C33F%7D&file=Installation%20of%20eASTD%20and%20cASTD.docx&action=default&mobileredirect=true&DefaultItemOpen=1).
+The installation procedure for eASTD and cASTD can be found in the [here](https://github.com/ndounalex/ASTD-tools).
 
 ## Wiki
 
