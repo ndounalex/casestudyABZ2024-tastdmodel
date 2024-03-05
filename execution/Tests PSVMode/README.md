@@ -1,4 +1,4 @@
-# casestudyABZ2024-tastdmodel
+# PSVMode test casestudyABZ2024-tastdmodel
 Mechanical Lung Ventilator ABZ2024 Case Study
 
 [![Code Quality Status](https://img.shields.io/badge/code%20quality-B%2B-yellowgreen)](https://img.shields.io/badge/code%20quality-B%2B-yellowgreen)
