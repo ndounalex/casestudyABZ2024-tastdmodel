@@ -1,0 +1,12 @@
+Start ReadFile - 'config.txt'
+Success ReadFile - 'config.txt'
+launch initialisation process
+Launch ADC initialisation process 1
+success load config file
+ADC initialisation process
+Power source value = internal
+The initialisation process has been completed successfully
+Power source value = internal
+Current Status value = running,
+Battery charge level value = 10
+Battery charge level value = 30
