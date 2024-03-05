@@ -1,0 +1,8 @@
+advanceOf(sec,10)
+inspiratory_pause_on
+inspiratory_pause_off
+advanceOf(sec,4)
+advanceOf(sec,50)
+expiratory_pause_on
+expiratory_pause_off
+advanceOf(sec,4)

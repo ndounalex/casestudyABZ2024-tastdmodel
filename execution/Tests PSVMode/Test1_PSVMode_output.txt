@@ -1,0 +1,7 @@
+Start ReadFile - 'config.txt'
+Success ReadFile - 'config.txt'
+No Detect Inspiratory Peak
+Go to Expiration Phase directly
+No Detect Spontaneaous Breath
+Launch expiratory pause on
+Launch Expiratory pause off
