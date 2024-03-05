@@ -1,0 +1,6 @@
+advanceOf(sec,3)
+inspiratory_pause_on
+advanceOf(sec,51)
+advanceOf(sec,3)
+expiratory_pause_on
+expiratory_pause_off

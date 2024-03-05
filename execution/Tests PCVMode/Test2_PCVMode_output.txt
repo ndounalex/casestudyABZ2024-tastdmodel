@@ -1,0 +1,7 @@
+Start ReadFile - 'config.txt'
+Success ReadFile - 'config.txt'
+Launch Recruitment maneuver on
+Launch Recruitment maneuver off
+No Detect Spontaneaous Breath
+Launch Expiratory pause on
+Launch Expiratory pause off
