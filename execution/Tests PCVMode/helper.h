@@ -105,6 +105,12 @@ void parametersInitialization(){
     go_to_psv_from_pcv=false;
     inspiration_time = 60*parameters.ie_pcv/(parameters.rr_pcv*(1+parameters.ie_pcv));
     float expiratory_time=60/(parameters.rr_pcv*(1+parameters.ie_pcv));
+    std::cout << "ie_pcv " << parameters.ie_pcv <<endl ;
+    std::cout << "rr_pcv " << parameters.rr_pcv <<endl ;
+    std::cout << "sous calcul 1 = " << 60*parameters.ie_pcv <<endl ;
+    std::cout << "sous calcul 2 = " << (parameters.rr_pcv*(1+parameters.ie_pcv)) <<endl ;
+    std::cout << "Inspiration time value !!!" << inspiration_time <<endl ;
+    std::cout << "Expiratory time value !!!" << expiratory_time <<endl ;
 }
 
 class IO

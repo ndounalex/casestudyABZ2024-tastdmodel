@@ -1,0 +1,30 @@
+Start ReadFile - 'config.txt'
+Success ReadFile - 'config.txt'
+ie_pcv 1
+rr_pcv 12
+sous calcul 1 = 60
+sous calcul 2 = 24
+Inspiration time value !!!2.5
+Expiratory time value !!!2.5
+Launch inspiratory pause on
+Launch inspiratory pause off
+Inspiration End
+No Detect Spontaneaous Breath
+Launch Expiratory pause on
+Launch Expiratory pause off
+Launch inspiratory pause on
+Launch inspiratory pause off
+Inspiration End
+No Detect Spontaneaous Breath
+Launch Expiratory pause on
+Launch Expiratory pause off
+Launch Recruitment maneuver on
+Launch Recruitment maneuver off
+Inspiration End
+No Detect Spontaneaous Breath
+No expiration pause on
+Go to Expiration Phase directly
+Inspiration End
+No Detect Spontaneaous Breath
+Launch Expiratory pause on
+Launch Expiratory pause off
