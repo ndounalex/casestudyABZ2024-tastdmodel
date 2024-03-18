@@ -2,7 +2,7 @@
 Mechanical Lung Ventilator ABZ2024 Case Study
 
 the source file could not be uploaded to Git due to its very large size and has been placed in an external repository accessible via this link: [code](https://usherbrooke-my.sharepoint.com/:f:/r/personal/ndoa2501_usherbrooke_ca/Documents/Mechanical%20Ventilator?csf=1&web=1&e=TuqerS)
-the source file corresponding to the PCV mode tests is psvmode.cpp
+the source file corresponding to the PSV mode tests is psvmode.cpp
 
 ## Description
 
